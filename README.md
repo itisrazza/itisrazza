@@ -22,4 +22,4 @@ They exist... I swear.
 
 ### Interests
 
-I also like taking photos, and read, write and speak languages I don't use on a daily basis (French, Japanese atm).
+I also like taking photos, and read, write and speak languages I don't use on a daily basis (French, Japanese atm). Don't have much to show for them.
