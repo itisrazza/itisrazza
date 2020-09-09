@@ -12,26 +12,6 @@ I also dump some other things when I'm done with them.
 
 ### School Projects
 
-Some of the links below lead to private repositories, in which case check again next year.
-
-**`Year 4`** (2022) \
-**`Year 3`** (2021) \
-**`Year 2`** [COMP261] &middot; [NWEN241] &middot; [SWEN221] &middot; [SWEN225 (Cluedo)] &middot; [SWEN225 (CC)] \
-**`Year 1`**  [COMP112] &middot; [COMP103] &middot; [CGRA151] &middot; [CYBR171] &middot; [ENGR101 (AVC)] &middot; [ENGR110 (ML)] &middot; [ENGR110 (Img)]
-
-[COMP261]: https://github.com/thegreatrazz/COMP261
-[CGRA151]: https://github.com/thegreatrazz/CGRA151
-[NWEN241]: https://github.com/thegreatrazz/NWEN241
-[SWEN221]: https://github.com/thegreatrazz/SWEN221
-[COMP112]: https://github.com/thegreatrazz/COMP112
-[COMP103]: https://github.com/thegreatrazz/COMP103
-[CYBR171]: https://github.com/thegreatrazz/CYBR171
-[ENGR101 (AVC)]: https://github.com/thegreatrazz/ENGR101-AVC
-[ENGR110 (ML)]: https://github.com/thegreatrazz/ENGR110-IDS500
-[ENGR110 (Img)]: https://github.com/thegreatrazz/ENGR110-SunsetMonitor
-[SWEN225 (Cluedo)]: https://github.com/thegreatrazz/Cluedo
-[SWEN225 (CC)]: https://github.com/txmxthy/#tbd
-
 **`High School`** [1TCD 91047] &middot; [2TCD 91370]
 
 [1TCD 91047]: https://github.com/thegreatrazz/betamuseum-og
