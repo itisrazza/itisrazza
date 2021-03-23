@@ -1,5 +1,5 @@
 <h1 align="center">👋 Salut!</h1>
-<p align="center">I'm Razz. I'm a Wellingtonian software engineering student. I focus on masking simple, yet capable tools for everyone to use.</p>
+<p align="center">I'm Razz. I'm a Wellingtonian software engineering student. I focus on making simple, yet capable tools for everyone to use.</p>
 
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="C"          src="https://img.shields.io/badge/Native-C-a5b8cd"         /></a>
