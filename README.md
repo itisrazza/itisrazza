@@ -1,31 +1,15 @@
-### 👋 Salut!
-
-I'm yet another nerd doing a Software Engineering degree. The obvious stuff aside, I like working on various small projects that I find useful. A lot of these projects are from back when I was learning how to program in new areas, but Uni and work are a thing now.
-
-Here are some highlights:
-
-* [CoronaBot](https://github.com/thegreatrazz/coronabot) - Discord bot for announcing lectures and deadlines + a few other things
-* [VGAPainter](https://github.com/thegreatrazz/VGAPainter) - I wanted to learn VGA programming on DOS at some point, so here's a graphics editor
-* [Tetris](https://github.com/thegreatrazz/tetris) - It's a terrible Tetris clone. In C++. Deal with it.
-
-I also dump some other things when I'm done with them.
-
-### School Projects
-
-**`High School`** [1TCD 91047] &middot; [2TCD 91370]
-
-[1TCD 91047]: https://github.com/thegreatrazz/betamuseum-og
-[2TCD 91370]: https://github.com/thegreatrazz/wodp-engine
-
-
-### Hard Skills
-
-**`JavaScript` `C#` `C` `PHP`** `HTML` `CSS` `MySQL` `TypeScript` `Java` `Vala` `Visual Basic` `bash` *`Vue.js` `GatsbyJS` `Rust` `Swift` `Lua` `Kotlin`*
-
-### Soft Skills
-
-They exist... I swear.
-
-### Interests
-
-I also like taking photos, and read, write and speak languages I don't usually get to. But I don't have anything to cleverly integrate into my README yet.
+<h1 align="center">👋 Salut!</h1>
+<p align="center">I'm Razz. I'm a Wellingtonian software engineering student. I focus on masking simple, yet capable tools for everyone to use.</p>
+<p align="center">
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img alt="C#" src="https://img.shields.io/badge/.NET-C%23-009c14"                /></a>
+  <a href="https://go.java"                                ><img alt="Java" src="https://img.shields.io/badge/JVM-Java-f36300"               /></a>
+  <a href="https://kotlinlang.org"                         ><img alt="Kotlin" src="https://img.shields.io/badge/JVM-Kotlin-9509ff"           /></a>
+  <a href="https://www.typescriptlang.org"                 ><img alt="TypeScript" src="https://img.shields.io/badge/Web-TypeScript-2372c9"   /></a>
+  <a href="https://reactjs.org"                            ><img alt="React" src="https://img.shields.io/badge/Web-React-00dcff"             /></a>
+  <a href="https://www.php.net"                            ><img alt="PHP" src="https://img.shields.io/badge/Web-PHP-7b75b4"                 /></a>
+  <a href="https://www.mysql.com"                          ><img alt="MySQL" src="https://img.shields.io/badge/DB-MySQL-007692"              /></a>
+  <a href="https://www.gnu.org/software/bash/"             ><img alt="Bash" src="https://img.shields.io/badge/Shell-Bash-00b753"             /></a>
+  <a href="https://docs.microsoft.com/en-us/powershell/"   ><img alt="PowerShell" src="https://img.shields.io/badge/Shell-PowerShell-294465" /></a>
+  <a href="https://www.python.org"                         ><img alt="Python" src="https://img.shields.io/badge/Script-Python-21699d"        /></a>
+  <a href="https://www.lua.org"                            ><img alt="Lua" src="https://img.shields.io/badge/Script-Lua-1e0082"              /></a>
+</p>
