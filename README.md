@@ -17,6 +17,13 @@
   <a href="https://www.lua.org"                                   ><img alt="Lua"        src="https://img.shields.io/badge/Script-Lua-1e0082"       /></a>
 </p> -->
 
+
+---
+
+I mostly use [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) and [TypeScript](https://www.typescriptlang.org) at home, [Java](https://java.com/) at school and [Ruby](https://www.ruby-lang.org/en/) on [Rails](https://rubyonrails.org/) at work.
+
+---
+
 <p align="center">
   <img alt="Profile Stats" src="https://github-readme-stats.vercel.app/api?username=thegreatrazz&count_private=true&show_icons=true&hide_title=true&theme=dracula&hide_border=true" />
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegreatrazz&layout=compact&langs_count=6&theme=dracula&hide_border=true" />
