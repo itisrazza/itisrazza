@@ -17,7 +17,7 @@
   <a href="https://www.lua.org"                                   ><img alt="Lua"        src="https://img.shields.io/badge/Script-Lua-1e0082"       /></a>
 </p> -->
 
-<p align="center">I mostly use <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">C#</a> and <a href="https://www.typescriptlang.org">TypeScript</a> at home, <a href="https://java.com/">Java</a> at school and <a href="https://rubyonrails.org/">Ruby on Rails</a> at work.</p>
+<p align="center">I use whatever I can get my hands on at home, <strike><a href="https://java.com/">Java</a> at school</strike> and <a href="https://rubyonrails.org/">Ruby on Rails</a> at work.</p>
 
 ---
 
